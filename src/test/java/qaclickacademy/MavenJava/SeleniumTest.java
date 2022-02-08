@@ -34,6 +34,13 @@ public class SeleniumTest {
 	public void ElementsUIabc()
 	{
 		System.out.println("ElementsUI");
+		
+		
+	}
+	
+	public void ElementsUIabcd()
+	{
+		System.out.println("ElementsUI");
 	}
 
 
