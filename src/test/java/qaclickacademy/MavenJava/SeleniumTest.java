@@ -6,6 +6,9 @@ public class SeleniumTest {
 	public void BrowserAuto()
 	{
 		System.out.println("BrowserAuto");
+		System.out.println("This is GIT Testing1");
+		System.out.println("This is GIT Testing2");
+		
 	}
 	@Test
 	public void ElementsUI()
