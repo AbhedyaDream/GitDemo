@@ -6,6 +6,7 @@ public class SeleniumTest2 {
 	public void BrowserAuto()
 	{
 		System.out.println("BrowserAuto");
+		System.out.println("WebAuto");
 	}
 	@Test
 	public void ElementsUI()
