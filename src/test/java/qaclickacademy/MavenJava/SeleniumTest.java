@@ -23,6 +23,20 @@ public class SeleniumTest {
 	{
 		System.out.println("ElementsUI");
 	}
+	
+	@Test
+	public void ElementsUIab()
+	{
+		System.out.println("ElementsUI");
+	}
+	
+	@Test
+	public void ElementsUIabc()
+	{
+		System.out.println("ElementsUI");
+	}
+
+
 
 
 }
